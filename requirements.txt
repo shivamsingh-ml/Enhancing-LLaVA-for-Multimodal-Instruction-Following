@@ -1,0 +1,12 @@
+transformers[torch]
+datasets
+peft
+bitsandbytes
+accelerate
+scipy
+scikit-learn
+bert-score
+tqdm
+pillow
+requests
+torch
