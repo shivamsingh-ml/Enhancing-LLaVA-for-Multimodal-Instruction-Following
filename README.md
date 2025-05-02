@@ -1,1 +1,1 @@
-# Enhancing LLaVA for Robust and Accurate Multimodal Instruction Following
+# Robust Instruction Tuning and Adversarial Training of LLaVA
