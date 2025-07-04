@@ -97,8 +97,8 @@ Prepared subsets:
 | Task | Status |
 |------|--------|
 | Baseline Multimodal Evaluation | ✅ Completed |
-| Finetune Multimodal LLaVA (10k LoRA) | ✅ In Progress |
-| Adversarial Dataset Creation | 🔜 Next |
+| Finetune Multimodal LLaVA (10k LoRA) | ✅ Completed |
+| Adversarial Dataset Creation | ✅ Completed |
 | Robust Finetuning | 🔜 |
 | Supervisor LLM Evaluation | 🔜 |
 | Final Reporting | 🔜 |
